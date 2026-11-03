@@ -1,0 +1,14 @@
+{
+  "name": "green-unicorn",
+  "owner": {
+    "name": "Green Unicorn"
+  },
+  "description": "Green Unicorn Marketing, Finance and Legal. Stage releases.",
+  "plugins": [
+    {
+      "name": "gu-ai-native-stage",
+      "source": "./plugins/gu-ai-native-stage",
+      "description": "Marketing, Finance and Legal through the Green Unicorn Core MCP connection."
+    }
+  ]
+}
