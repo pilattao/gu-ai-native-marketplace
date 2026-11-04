@@ -1,6 +1,6 @@
 # Green Unicorn plugins
 
-Public installation packages for Green Unicorn. Current stage release: **0.1.7**.
+Public installation packages for Green Unicorn. Current stage release: **0.1.8**.
 
 ## Install in Claude
 
